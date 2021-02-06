@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "年初、日経平均で正規化", "WindowsFormsApplication2\年初、日経平均で正規化.csproj", "{C1E07D1B-5A42-436F-9BFD-DD515E468DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E07D1B-5A42-436F-9BFD-DD515E468DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E07D1B-5A42-436F-9BFD-DD515E468DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E07D1B-5A42-436F-9BFD-DD515E468DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E07D1B-5A42-436F-9BFD-DD515E468DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
